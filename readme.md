@@ -1,5 +1,7 @@
 # unblocker
 
+[![Run on Repl.it](https://repl.it/badge/github/Tyferdo69/node-unblocker)](https://repl.it/github/Tyferdo69/node-unblocker)
+
 Unblocker was originally a web proxy for evading internet censorship, similar to CGIproxy / PHProxy / Glype but
 written in node.js. It's since morphed into a general-purpose library for proxying and rewriting remote webpages.
 
